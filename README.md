@@ -1,1 +1,1 @@
-https://pokemon-memory-game-avn.netlify.app/
+https://pokemon-memory-game-avn.netlify.app
